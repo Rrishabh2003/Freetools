@@ -96,14 +96,6 @@ freetools/
 - **No Server Processing**: Files never leave your device
 - **Open Source**: Full transparency in how your data is handled
 
-## Contributing
-
-We welcome contributions! Please see our contributing guidelines for more details.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Support
 
 For support, please open an issue on GitHub or contact us through our website.
